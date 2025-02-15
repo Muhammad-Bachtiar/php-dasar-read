@@ -33,6 +33,7 @@ $row = mysqli_fetch_assoc($result);
 </head>
 <body>
     <h1>daftar siswa</h1>
+    <a href="add.php">Tambah Data Siswa</a>
     <table border="1" cellpadding="15" cellspacing="0">
         <tr>
             <th>No</th>
